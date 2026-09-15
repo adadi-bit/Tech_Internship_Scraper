@@ -269,6 +269,7 @@
   "wallstreetquants": "WallStreetQuants"
  },
  "workday": {
+  "3m.wd1.myworkdayjobs.com/Search": "3M",
   "abb.wd3.myworkdayjobs.com/external_career_page": "ABB",
   "adobe.wd5.myworkdayjobs.com/external_experienced": "Adobe",
   "aero.wd5.myworkdayjobs.com/external": "The Aerospace Corporation",
@@ -314,6 +315,7 @@
   "cadence.wd1.myworkdayjobs.com/Univ_Careers": "Cadence Design Systems",
   "cadence.wd1.myworkdayjobs.com/University_Talent": "Cadence Design Systems",
   "cadence.wd1.myworkdayjobs.com/University_Talent_NCG": "Cadence Design Systems",
+  "cai.wd5.myworkdayjobs.com/computer_aid": "CAI",
   "canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site": "Canadian Tire",
   "capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers": "Capital Health",
   "capitalone.wd12.myworkdayjobs.com/Capital_One": "Capital One",
